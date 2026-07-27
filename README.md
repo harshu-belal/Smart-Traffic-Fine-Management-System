@@ -239,3 +239,5 @@ It motivates future improvements and development.
 ## 📄 License
 
 This project is developed for educational purposes as part of an Object-Oriented Programming (OOP) academic project.
+
+© 2026 Harshit Belal. All Rights Reserved.
