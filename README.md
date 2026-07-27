@@ -214,7 +214,7 @@ Graphic Era Hill University
 
 GitHub
 
-https://github.com/harshu-belal
+GitHub: https://github.com/harshu-belal
 
 ---
 
