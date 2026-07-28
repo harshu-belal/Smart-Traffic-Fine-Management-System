@@ -122,8 +122,6 @@ SmartTrafficFineManagementSystem
 │   ├── fines.txt
 │   └── payments.txt
 │
-├── screenshots/
-│
 ├── README.md
 └── LICENSE
 ```
