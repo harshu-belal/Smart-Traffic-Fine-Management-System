@@ -199,6 +199,7 @@ Planned Features:
 - Online Payment Gateway
 - Dashboard Analytics
 - Web Deployment
+- Many More
 
 ---
 
